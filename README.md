@@ -1,2 +1,2 @@
 # hunspell-bal
-Hunspell spell cheker for Balochi based on UniBal script
+Hunspell spell checker for Balochi based on UniBal script
